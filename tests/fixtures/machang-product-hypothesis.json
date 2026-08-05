@@ -1,0 +1,13 @@
+{
+  "project": "广州天河马场地块一期",
+  "scope_id": "machang-phase-1-residential",
+  "residential_gfa_sqm": 222740,
+  "saleable_ratio": 0.92,
+  "segments": [
+    {"name": "城市改善", "share": 0.30, "avg_unit_gfa": 200, "prices": {"conservative": 120000, "base": 130000, "optimistic": 145000}},
+    {"name": "核心大平层", "share": 0.45, "avg_unit_gfa": 280, "prices": {"conservative": 140000, "base": 155000, "optimistic": 165000}},
+    {"name": "城市顶豪", "share": 0.20, "avg_unit_gfa": 400, "prices": {"conservative": 170000, "base": 190000, "optimistic": 200000}},
+    {"name": "旗舰产品", "share": 0.05, "avg_unit_gfa": 550, "prices": {"conservative": 200000, "base": 220000, "optimistic": 240000}}
+  ],
+  "total_cost_yuan": null
+}
