@@ -1,5 +1,8 @@
 # HOOSLAND 综合地产研判策划专家套件 v2.2
 
+[![License: MIT](https://img.shields.io/badge/Code%20%26%20Skills-MIT-blue.svg)](LICENSE)
+[![Content: CC BY 4.0](https://img.shields.io/badge/Content-CC%20BY%204.0-lightgrey.svg)](LICENSE-CONTENT.md)
+
 本套件包含 1 个总控、5 个专业模块和 4 个最终交付模块：
 
 - `comprehensive-real-estate-expert`：跨模块路由、项目状态、证据与质量闸门；
@@ -18,6 +21,12 @@
 范围身份、来源/主张账本、L0–L2 计算许可、冲突处理、项目状态、确定性产品测算、范围检查、报告文案、报告设计、交付质检、社交内容拆解、平台化改写、宣传素材和多端发布前检查。
 
 参考项目报告见：[项目研究参考报告](references/project-reports/README.md)。
+
+## 开源与授权
+
+- 代码、脚本、配置、skill 规则和模板采用 [MIT License](LICENSE)；
+- 原创说明书、方法文档和原创报告内容采用 [CC BY 4.0](LICENSE-CONTENT.md)；
+- 使用、再发布、贡献、安全问题和第三方资料边界见 [使用与授权说明](docs/USAGE-AND-AUTHORIZATION.md)、[NOTICE](NOTICE)、[贡献指南](CONTRIBUTING.md) 和 [安全政策](SECURITY.md)。
 
 运行测试：
 
